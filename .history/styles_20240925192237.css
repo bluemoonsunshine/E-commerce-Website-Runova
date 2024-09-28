@@ -1,0 +1,12 @@
+h1 {
+  font-size: 200px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+#run:hover {
+  color: #24ec3f;
+}
